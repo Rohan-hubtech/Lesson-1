@@ -1,8 +1,8 @@
-import math;
+import ab;
 
 def printPowerSet(set, SetSize):
     
-    PowerSetSize = (int) (math.pow(2, SetSize))
+    PowerSetSize = (int) (.pow(2, SetSize))
     outer = 0;
     inner = 0;
     
