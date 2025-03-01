@@ -1,6 +1,6 @@
 def setOrNot(number, n):
     
-    
+    "Enter your number "
     if number & (1<<(n-1)):
         print( "\nSET")
     else:
