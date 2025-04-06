@@ -13,4 +13,4 @@ a_size = len(a)
 print(a)
 pushZeroestoEnd(a, a_size)
 print("Array after pushing all zeroes to end of array:")
-print(a)
+print(a)2
