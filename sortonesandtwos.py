@@ -9,7 +9,7 @@ for i in range (0,len(a)):
     elif a[i]==1:
         ones.append(a[i])
     elif a[i]==2:
-        twos.append(a[i])
+        twos.append(a[` i])
 for i in range (0,len(zeros)):
     new.append(zeros[i])
 for i in range (0, len(ones)):
